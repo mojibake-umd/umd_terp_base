@@ -1,5 +1,5 @@
 {
-    "name": "umd_digital/umd_terp_base",
+    "name": "umd/umd_terp_base",
     "type": "drupal-module",
     "description": "UMD Terp Base is the base module for all UMD drupal 8 projects.",
     "keywords": ["Drupal"],
